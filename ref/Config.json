@@ -1,0 +1,13 @@
+{
+    "cache_time": [
+        "20#seconds"
+    ],
+    "whitelisting": [
+        "oosc.online",
+        "vbsca.ca",
+        "vulnweb.com"
+    ],
+    "time": [
+        "0:00-23:59"
+    ]
+}

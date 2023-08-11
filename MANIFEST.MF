@@ -1,0 +1,2 @@
+Main-Class: ProxyCache
+Class-Path: lib/json-20230618.jar classes
